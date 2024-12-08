@@ -2,8 +2,8 @@ CREATE DATABASE store;
 
 CREATE TABLE todo 
 (
-    id SERIAL PRIMARY KEY;
-    description VARCHAR(300);
+    todo_id SERIAL PRIMARY KEY,
+    description VARCHAR(300)
 );
 
 /*
