@@ -8,7 +8,7 @@ const EditTodo = ({ todo }) => {
     try {
       const body = { description };
       const response = await fetch(
-        `https://todo-app-using-pern-stack-development.onrender.com/todos/${todo.todo_id}`,
+        `http://localhost:5000/todos/${todo.todo_id}`,
         {
           method: "PUT",
           headers: { "Content-Type": "application/json" },
