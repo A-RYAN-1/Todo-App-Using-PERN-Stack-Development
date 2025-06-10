@@ -48,7 +48,7 @@ To set up the project locally, follow the steps below:
         npm install
         ```
 
-    3. Configure the PostgreSQL database connection. Make sure you have PostgreSQL running locally and create a database named `todos_db`.
+    3. Configure the PostgreSQL database connection. Make sure you have PostgreSQL running locally and create a database named `store`.
 
     4. Set up the environment variables (create a `.env` file in the `backend` folder):
 
@@ -161,3 +161,5 @@ The UI is styled using **Bootstrap**, which provides ready-to-use components for
 ## Project Demo
 
 https://github.com/user-attachments/assets/61315650-f34a-4dbd-98c7-b89fcf4b005d
+
+https://github.com/user-attachments/assets/0a05ea13-14de-4119-8e71-9bcb01c1c061
