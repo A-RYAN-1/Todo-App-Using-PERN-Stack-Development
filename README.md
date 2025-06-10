@@ -160,8 +160,6 @@ The UI is styled using **Bootstrap**, which provides ready-to-use components for
 
 ## Project Demo
 
-Initial working video
 https://github.com/user-attachments/assets/61315650-f34a-4dbd-98c7-b89fcf4b005d
 
-Improved UI, added priority, filter and search functions
 https://github.com/user-attachments/assets/0a05ea13-14de-4119-8e71-9bcb01c1c061
