@@ -2,6 +2,13 @@
 
 This is a Todo application built using the **PERN stack**, which stands for **PostgreSQL**, **Express.js**, **React**, and **Node.js**. The application allows users to create, edit, and delete tasks in a todo list, with data stored in a PostgreSQL database and a RESTful API backend built with Node.js and Express.
 
+## Live Working
+
+Frontend: React (hosted on Vercel)
+Backend: Node.js + Express (hosted on Render)
+Database: PostgreSQL (hosted on Supabase)
+Link: https://todo-vercel-frontend.vercel.app/
+
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
