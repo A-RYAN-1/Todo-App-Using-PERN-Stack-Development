@@ -1,8 +1,19 @@
-.container {
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 2rem;
-  background: rgba(255, 255, 255, 0.05);
-  border-radius: 1rem;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+/* Ensure Font Awesome is included in index.html */
+.backface-hidden {
+  backface-visibility: hidden;
 }
+
+.border-gradient-to-r {
+  border-image: linear-gradient(to right, #4b5ef9, #a855f7) 1;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+
+.animate-pulse {
+  animation: pulse 2s infinite;
+}
+
+/* Add any additional custom styles if needed */
